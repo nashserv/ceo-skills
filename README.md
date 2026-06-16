@@ -36,8 +36,10 @@ npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-d
 General company-wide skills grouped here:
 
 - `skills/skill-company/frontend-design` — from [anthropics/skills](https://github.com/anthropics/skills/tree/main/skills/frontend-design) (includes LICENSE.txt)
+- `skills/skill-company/redesign-skill` — `redesign-existing-projects`, from [leonxlnx/taste-skill](https://github.com/leonxlnx/taste-skill) — audit & redesign existing sites to premium quality
 
 Install:
 ```
 npx skills add https://github.com/nashserv/ceo-skills --path skills/skill-company/frontend-design
+npx skills add https://github.com/nashserv/ceo-skills --path skills/skill-company/redesign-skill
 ```
