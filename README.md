@@ -25,9 +25,9 @@ Markdown-only sales/logistics skills for the MM-Express commercial flow:
 
 Install (per skill):
 ```
-npx skills add https://github.com/nashserv/ceo-skills --skill commercial-director/lead-qualification
-npx skills add https://github.com/nashserv/ceo-skills --skill commercial-director/proposal-kp
-npx skills add https://github.com/nashserv/ceo-skills --skill commercial-director/objections-logistics
-npx skills add https://github.com/nashserv/ceo-skills --skill commercial-director/followup-logistics
-npx skills add https://github.com/nashserv/ceo-skills --skill commercial-director/lessons-learned
+npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/lead-qualification
+npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/proposal-kp
+npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/objections-logistics
+npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/followup-logistics
+npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/lessons-learned
 ```
