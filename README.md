@@ -31,3 +31,13 @@ npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-d
 npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/followup-logistics
 npx skills add https://github.com/nashserv/ceo-skills --path skills/commercial-director/lessons-learned
 ```
+
+## Skill company — `skills/skill-company`
+General company-wide skills grouped here:
+
+- `skills/skill-company/frontend-design` — from [anthropics/skills](https://github.com/anthropics/skills/tree/main/skills/frontend-design) (includes LICENSE.txt)
+
+Install:
+```
+npx skills add https://github.com/nashserv/ceo-skills --path skills/skill-company/frontend-design
+```
